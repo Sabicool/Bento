@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Notion',
+					link: 'https://www.notion.so/MBBS-3-1-12c6168a36544cd2a880d86057039176',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Drive',
+					link: 'https://drive.google.com/drive/u/0/my-drive',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Keep',
+					link: 'https://keep.google.com/u/0/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Messenger',
+					link: 'https://www.messenger.com/t/',
 				},
 			],
 		},
