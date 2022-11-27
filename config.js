@@ -15,7 +15,6 @@ const CONFIG = {
 	imageBackground: false,
 	openInNewTab: false,
 	twelveHourFormat: true,
-	theme: latte-mocha,
 
 	// Greetings
 	greetingMorning: 'Good Morning!',
