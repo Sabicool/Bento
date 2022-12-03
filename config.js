@@ -152,7 +152,7 @@ const CONFIG = {
 				},
 				{
 					name: 'eTG',
-					link: 'https://tgldcdp-tg-org-au.eu1.proxy.openathens.net/etgAccess',
+					link: 'https://tgldcdp-tg-org-au.dbgw.lis.curtin.edu.au/etgAccess',
 				},
 			],
 		},
@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Notion',
-					link: 'https://www.notion.so/MBBS-3-1-12c6168a36544cd2a880d86057039176',
+					link: 'https://www.notion.so/',
 				},
 				{
 					name: 'Drive',
